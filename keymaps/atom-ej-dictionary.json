@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-ej-dictionary:toggle"
+    "ctrl-alt-d": "atom-ej-dictionary:search",
+    "escape": "atom-ej-dictionary:hide"
   }
 }
