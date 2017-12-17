@@ -8,7 +8,7 @@
     "Dictionary"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-ej-dictionary:search"
+    "atom-workspace": "atom-ej-dictionary:toggle"
   },
   "repository": "https://github.com/FujiHaruka/atom-ej-dictionary",
   "license": "MIT",
